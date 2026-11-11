@@ -9,7 +9,7 @@
 
 ## Cau truc
 ```
-Nguoi1_NuiLua_OpenGL/
+NuiLua_OpenGL/
   src/VolcanoScene.h       // API module
   src/VolcanoScene.cpp     // dia hinh, mesh, texture
   src/demo_main.cpp        // cua so xem rieng
@@ -20,7 +20,7 @@ Nguoi1_NuiLua_OpenGL/
 ```
 sudo apt update
 sudo apt install -y build-essential freeglut3-dev libglu1-mesa-dev
-cd Nguoi1_NuiLua_OpenGL
+cd NuiLua_OpenGL
 make
 ./volcano_demo
 ```
