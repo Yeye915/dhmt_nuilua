@@ -1,4 +1,4 @@
-# DO AN DO HOA MAY TINH - NGUOI 1: NUI LUA, DIA HINH, TEXTURE
+# DO AN DO HOA MAY TINH - NUI LUA, DIA HINH, TEXTURE
 
 ## Pham vi hoan thanh
 - Dia hinh 3D dang heightmap tao tu value noise; mat dat co doi nhe bao quanh nui.
