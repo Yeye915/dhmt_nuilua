@@ -49,7 +49,7 @@ int main(int argc,char**argv) {
     glutInit(&argc,argv);
     glutInitDisplayMode(GLUT_DOUBLE|GLUT_RGBA|GLUT_DEPTH);
     glutInitWindowSize(winW,winH);
-    glutCreateWindow("Do hoa may tinh - Nguoi 1: Nui lua va dia hinh");
+    glutCreateWindow("Do hoa may tinh - Nui lua va dia hinh");
     glClearColor(0.63f,0.76f,0.85f,1.0f);
     glEnable(GL_DEPTH_TEST);
     glEnable(GL_NORMALIZE);
