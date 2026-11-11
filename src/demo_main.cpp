@@ -1,4 +1,4 @@
-// Demo xem san pham cua Nguoi 1, KHONG phai module camera chinh cua Nguoi 3.
+// Demo xem san pham cua Nhi, KHONG phai module camera chinh nha.
 #include "VolcanoScene.h"
 #include <GL/glut.h>
 #include <cmath>
