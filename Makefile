@@ -14,7 +14,7 @@ src/%.o: src/%.cpp
 
 demo: $(TARGET)
 
-$(TARGET): src/demo_main.cpp $(CORE_OBJECTS)
+$(TARGET): src/main.cpp $(CORE_OBJECTS)
 	$(CXX) $(CXXFLAGS) src/demo_main.cpp $(CORE_OBJECTS) -o $@ -lglut -lGLU -lGL
 
 clean:
